@@ -1,0 +1,2 @@
+[09-Mar-2017 06:40:58 UTC] PHP Warning:  require(/home/leonappl/demo.leonapplications.com/college/Database/Connection.php): failed to open stream: No such file or directory in /home/leonappl/demo.leonapplications.com/college/Utilities/User/User.php on line 15
+[09-Mar-2017 06:40:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/leonappl/demo.leonapplications.com/college/Database/Connection.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/leonappl/demo.leonapplications.com/college/Utilities/User/User.php on line 15

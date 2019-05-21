@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: Leon * Date: 06/03/2017 * Time: 1:02 PM */require "receiptExt_1.php";require "../REQUIRE_SETTINGS.php";$html = getReceiptHTML9($_GET['id'],"../Payment/Payment_1.php","../Student/Student.php","../Course/Course.php");echo $html;

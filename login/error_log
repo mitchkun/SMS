@@ -1,0 +1,14 @@
+[10-Mar-2017 10:51:49 UTC] PHP Notice:  Undefined index: collegesystemuserdisplayemail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 14
+[10-Mar-2017 10:51:49 UTC] PHP Notice:  Undefined index: collegesystemuseremail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 15
+[04-May-2017 04:40:49 UTC] PHP Notice:  Undefined index: collegesystemuserdisplayemail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 14
+[04-May-2017 04:40:49 UTC] PHP Notice:  Undefined index: collegesystemuseremail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 15
+[13-May-2017 20:08:22 UTC] PHP Notice:  Undefined index: collegesystemuserdisplayemail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 14
+[13-May-2017 20:08:22 UTC] PHP Notice:  Undefined index: collegesystemuseremail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 15
+[29-May-2017 14:46:35 UTC] PHP Notice:  Undefined index: collegesystemuserdisplayemail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 14
+[29-May-2017 14:46:35 UTC] PHP Notice:  Undefined index: collegesystemuseremail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 15
+[11-May-2018 06:22:17 UTC] PHP Notice:  Undefined index: collegesystemuserdisplayemail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 14
+[11-May-2018 06:22:17 UTC] PHP Notice:  Undefined index: collegesystemuseremail in /home/leonappl/demo.leonapplications.com/college/nav_side.php on line 15
+[25-Jun-2018 19:31:29 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/leonappl/demo.leonapplications.com/college/index.php on line 1
+[25-Jun-2018 19:41:02 UTC] PHP Parse error:  syntax error, unexpected '"Utilities/REQUIRE_SETTINGS.ph' (T_CONSTANT_ENCAPSED_STRING) in /home/leonappl/demo.leonapplications.com/college/courses.php on line 1
+[25-Jun-2018 19:51:54 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/leonappl/demo.leonapplications.com/college/index.php on line 1
+[25-Jun-2018 19:51:57 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/leonappl/demo.leonapplications.com/college/index.php on line 1
